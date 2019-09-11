@@ -10,7 +10,7 @@ Click on the green flag to begin to find out about a specific person with a care
 
 Click on the 'Click me' button to try the next project:
 
-<a href="hhttps://codeclub.org/en/scratch2">
+<a href="https://codeclub.org/en/scratch2">
 <img src="images/Clickme.png">
 
 --- /task ---
